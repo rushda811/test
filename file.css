@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    display: flex;
+    margin-left: 500px;
+}
+#text1{
+    padding: 50px;
+}
+#aboutme{
+    /* margin-left: 50px; */
+    /* padding: 50px; */
+    left: 80px;
+}
+#container2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 60px;
+}
+#img5{
+    margin-left: 10px;
+}
+#abotme>h2{
+    font-family:"Satisfy", cursive;
+    font-weight: 400;
+    /* font-style: normal;  */
+}
+.card{
+    display: flex;
+    justify-content: space-around;
+
+}
